@@ -41,7 +41,7 @@
     "qrcode": "^1.4.4",
     "request": "2.88.0",
     "runes": "0.4.3",
-    "semver": "6.0.0",
+    "semver": "7.3.5",
     "serve-favicon": "^2.5.0",
     "simple-git": "1.110.0",
     "untildify": "3.0.3"
