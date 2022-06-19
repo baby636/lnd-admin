@@ -31,7 +31,7 @@
     "express-session": "1.15.6",
     "grpc": "^1.24.3",
     "hash.js": "1.1.7",
-    "latest-version": "5.1.0",
+    "latest-version": "6.0.0",
     "meow": "^5.0.0",
     "moment": "^2.27.0",
     "moment-duration-format": "2.2.2",
