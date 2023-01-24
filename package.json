@@ -43,7 +43,7 @@
     "runes": "0.4.3",
     "semver": "6.0.0",
     "serve-favicon": "^2.5.0",
-    "simple-git": "1.110.0",
+    "simple-git": "3.16.0",
     "untildify": "3.0.3"
   }
 }
